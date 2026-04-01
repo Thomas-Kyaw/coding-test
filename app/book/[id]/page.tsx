@@ -1,4 +1,4 @@
-import { getBookById } from '../../../service/bookService';
+import { getBookById } from '@/service/bookService';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 

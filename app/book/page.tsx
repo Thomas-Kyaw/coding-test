@@ -1,4 +1,4 @@
-import { getAllBooks } from '../../service/bookService';
+import { getAllBooks } from '@/service/bookService';
 import Link from 'next/link';
 import { Book } from '@/types/book';
 
